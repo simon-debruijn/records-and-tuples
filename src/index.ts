@@ -74,3 +74,8 @@ export function createRecord<K extends string, T>(
 
   return freeze(record) as ImmutableObject<T>;
 }
+
+export default {
+  createRecord,
+  createTuple,
+};
