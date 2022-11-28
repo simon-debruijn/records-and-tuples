@@ -55,7 +55,3 @@ function createRecord(object) {
     return freeze(record);
 }
 exports.createRecord = createRecord;
-exports.default = {
-    createRecord,
-    createTuple,
-};
