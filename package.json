@@ -1,6 +1,6 @@
 {
   "name": "records-and-tuples",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Utilities to create immutable objects and arrays",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
