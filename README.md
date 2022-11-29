@@ -2,7 +2,8 @@
 
 Utilities to create deep immutable objects and arrays.
 
-We make it possible to use immutable datastructures similar to [https://github.com/tc39/proposal-record-tuple](tc39 records and tuples proposal).
+We make it possible to use immutable datastructures similar to this tc39 proposal:
+https://github.com/tc39/proposal-record-tuple
 
 We export 2 factory functions `createRecord` and `createTuple` which create a record and tuple respectively.
 
